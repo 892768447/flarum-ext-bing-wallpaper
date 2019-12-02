@@ -16,4 +16,5 @@ app.initializers.add('irony-bing-wallpaper', app => {
         });
     }
 
+
 });
